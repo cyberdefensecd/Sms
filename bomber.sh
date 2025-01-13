@@ -1,5 +1,5 @@
 #!/bin/bash
-## Coded by the jatin kalwar
+## Coded by the offenso
 ##Don't steal my code read license
 ## if you use any part of code then give me credit
 
@@ -7,7 +7,7 @@
 
 internet() {
     
-    wget -q --spider https://github.com/jatinkalwar
+    wget -q --spider https://github.com/cyberdensecd 
 
 if [ $? -eq 0 ]; then
     just
